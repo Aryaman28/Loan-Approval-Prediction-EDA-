@@ -18,4 +18,4 @@ The dataset contains a set of 613 records under 13 attributes:
 - Property_Area	
 - Loan_Status
 
-Via conducting Exptrapolatory Data Analysis we tend to gain insights into which Loan_ID has the most likeliness to be approved from the authorities
+#### Via conducting Exptrapolatory Data Analysis we tend to gain insights into which Loan_ID has the most likeliness to be approved from the authorities
